@@ -17,7 +17,7 @@ Escenario:
 - Host RDP (Red B): 192.168.0.10
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adrianlois/Tunnel-SSH-Port-forwarding/master/screenshots/ssh-tunneling-local.png" width="740" />
+<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-local.png" width="740" />
 </p>
 
 
@@ -43,7 +43,7 @@ Escenario:
 - Client RDP (Red B): 192.168.0.10
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adrianlois/Tunnel-SSH-Port-forwarding/master/screenshots/ssh-tunneling-remote.png" width="740" />
+<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-remote.png" width="740" />
 </p>
 
 
@@ -59,12 +59,12 @@ Escenario:
 - Servidor SSH (Red B): 192.168.0.15
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adrianlois/Tunnel-SSH-Port-forwarding/master/screenshots/ssh-tunneling-dynamic.png" width="740" />
+<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-dynamic.png" width="740" />
 </p>
 
 
 Configuración SOCKS en Navegador web (Mozilla Firefox).
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adrianlois/Tunnel-SSH-Port-forwarding/master/screenshots/webbrowser-tunel-ssh-dynamic-socks-web.png" width="610" />
+<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/webbrowser-tunel-ssh-dynamic-socks-web.png" width="610" />
 </p>
