@@ -18,7 +18,7 @@ Escenario:
 - Host RDP (Red B): 192.168.0.10
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-portforward-local.png" width="740" />
+<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-port-forward-local.png" width="740" />
 </p>
 
 
@@ -44,7 +44,7 @@ Escenario:
 - Client RDP (Red B): 192.168.0.10
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-portforward-remote.png" width="740" />
+<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-port-forward-remote.png" width="740" />
 </p>
 
 
@@ -60,7 +60,7 @@ Escenario:
 - Servidor SSH (Red B): 192.168.0.15
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-portforward-dynamic.png" width="740" />
+<img src="https://raw.githubusercontent.com/adrianlois/SSH-Tunnel-Port-forwarding/master/screenshots/ssh-tunneling-port-forward-dynamic.png" width="740" />
 </p>
 
 
