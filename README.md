@@ -24,7 +24,7 @@ Escenario:
 
 ## SSH Tunnel: Remote port forwarding 
 
-Reenvía un puerto rmeoto a un host local. Ejemplo de conexión remote port forwarding de escritorio remoto RDP.
+Reenvía un puerto remoto a un host local (reverse port forwarding). Ejemplo de conexión remote port forwarding de escritorio remoto RDP.
 
 Es necesario tener en el lado del servidor SSH habilitada la directiva "GatewayPorts" en /etc/ssh/sshd_config, para permitir que los hosts remotos pueden conectarse a los puertos reenviados para el cliente.
 
