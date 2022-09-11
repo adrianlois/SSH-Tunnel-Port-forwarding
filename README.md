@@ -1,5 +1,5 @@
 # SSH-Tunnel-Port-forwarding
-Tunnel SSH - Diferencias entre port forwarding: Local, Remote, Dynamic
+Tunnel SSH Port forwarding: Local, Remote, Dynamic
 
 https://www.zonasystem.com/2019/01/tunel-ssh-port-forwarding-local-remote-dynamic.html
 
