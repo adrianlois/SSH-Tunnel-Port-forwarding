@@ -12,6 +12,8 @@ Conexión SSH
     ssh -L <puerto-local-escucha>:<host-remoto>:<puerto-remoto> <servidor-ssh>
     ssh -L 9090:192.168.0.10:3389 mi.servidorssh.com
 
+Si el servidor SSH al que nos conectamos (mi.servidorssh.com) está expuesto por otro puerto que no sea el 22 por defecto, podemos especificarlo con el parámetro `-p <puerto-servidor-ssh>`.
+
 Escenario:
 - Cliente SSH (Red A): 172.16.0.20 
 - Servidor SSH (Red B): 192.168.0.15 
@@ -38,6 +40,8 @@ Conexión SSH
     o también
     ssh -R 9090:localhost:3389 mi.servidorssh.com
 
+Si el servidor SSH al que nos conectamos (mi.servidorssh.com) está expuesto por otro puerto que no sea el 22 por defecto, podemos especificarlo con el parámetro `-p <puerto-servidor-ssh>`.
+
 Escenario:
 - Cliente SSH y Host RDP (Red A): 172.16.0.20
 - Servidor SSH (Red B): 192.168.0.15
@@ -54,6 +58,8 @@ Utiliza SOCKS.
 
     ssh -D <puerto-origen-dinámico-escucha> <servidor-ssh>
     ssh -D 9090 mi.servidorssh.com
+
+Si el servidor SSH al que nos conectamos (mi.servidorssh.com) está expuesto por otro puerto que no sea el 22 por defecto, podemos especificarlo con el parámetro `-p <puerto-servidor-ssh>`.
 
 Escenario:
 - Cliente SSH (Red A): 172.16.0.20
