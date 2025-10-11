@@ -3,7 +3,7 @@ Tunnel SSH Port forwarding: Local, Remote, Dynamic
 
 https://zonasystem.com/2019/01/tunel-ssh-port-forwarding-local-remote-dynamic.html
 
-## SSH Tunnel: Local port forwarding 
+## SSH Tunnel: Local Port Forwarding (LPF) 
 
 Reenvía un puerto local a un host remoto. Ejemplo de conexión local port forwarding de escritorio remoto RDP realizando pivoting del servidor SSH a otro equipo de la misma red interna. 
 
@@ -24,7 +24,7 @@ Escenario:
 </p>
 
 
-## SSH Tunnel: Remote port forwarding 
+## SSH Tunnel: Remote Port Forwarding (RPF)
 
 Reenvía un puerto remoto a un host local (reverse port forwarding). Ejemplo de conexión remote port forwarding de escritorio remoto RDP.
 
@@ -52,7 +52,7 @@ Escenario:
 </p>
 
 
-## SSH Tunnel: Dynamic port forwarding 
+## SSH Tunnel: Dynamic Port Forwarding (DPF)
 
 Utiliza SOCKS.
 
